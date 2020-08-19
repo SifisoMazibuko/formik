@@ -116,6 +116,12 @@ export const users = [
     infoLink: 'https://statestreet.com',
   },
   {
+    caption: 'DevroomSA',
+    image: require('images/logos/devroomsa.png'),
+    infoLink: 'https://devroomsa.com',
+    pinned: true,
+  },
+  {
     caption: 'Wayfair',
     image: require('images/logos/wayfair.svg'),
     infoLink: 'https://wayfair.com',
